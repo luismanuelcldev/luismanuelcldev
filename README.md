@@ -17,11 +17,10 @@
 
 <br>
 
-Soy un apasionado Desarrollador de Software en formación, con una sólida formación académica en el Centro de Tecnología y Educación Continua de la Pontificia Universidad Católica Madre y Maestra (TEP PUCMM), donde he profundizado mis conocimientos en programación, algoritmos, estructuras de datos, entre otros de suma importancia. Mi objetivo es la ejecución práctica de estos conocimientos a través de proyectos que solucionen problemas reales.
-
-Me distingo por mi proactividad y capacidad de trabajo en equipo, buscando siempre aportar valor a la innovación y a la superación de retos. Mi meta es contribuir al crecimiento de una empresa, en la que puedo aplicar mis habilidades por el desarrollo de software para lograr resultados eficientes. 
-
-¡No dude en ponerse en contacto, para establecer nuevas colaboraciones!
+Soy un desarrollador junior en formación con experiencia en lenguajes de programación como,  JavaScript, Python, Java, c# .NET y conocimientos en desarrollo web y de 
+software, estocadas en el front-end, back-end y bases de datos, etc. Con una sólida formación en ingeniería de software, he trabajado en proyectos que abarcan desde la 
+creación de aplicaciones web hasta la automatización de procesos. Me apasiona resolver problemas complejos, colaborar con equipos y continuar mejorando mis 
+habilidades técnicas para enfrentar nuevos desafíos y contribuir al éxito de los proyectos.
 
 <br><br>
 
