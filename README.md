@@ -45,7 +45,7 @@
 
 📫 **Conéctemos:**  
 - LinkedIn: [Luis Manuel De La Cruz Ledesma](https://www.linkedin.com/in/luis-manuel-de-la-cruz-ledesma/)  
-- Portafolio: [Mi portafolio web](https://luismanueldelacruzldev.tech/)  
+- Portafolio: [luismanueldelacruzldev.tech ](https://luismanueldelacruzldev.tech/)  
 - Correo: ledesmadelacruzluismanuel@gmail.com  
 
 ⭐ **Open to collaborations** on projects!
