@@ -9,11 +9,11 @@
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> <b>Mi trayectoria</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>Mi trayectoria</b>
 
 👨‍💻 **Desarrollador de Software** con formación en **Tecnólogo Superior en Desarrollo de Aplicaciones Multiplataformas** [PUCMM](https://www.pucmm.edu.do).  
 
-🌱 Oriundo de **Fantino (República Dominicana)**, actualmente radicado en **Santo Domingo**.  
+🌱 Oriundo de **Fantino, Sánchez Ramírez (República Dominicana)**, actualmente radicado en **Santo Domingo**.  
 
 💡 Autodidacta por naturaleza, me apasiona:
 - Implementar arquitecturas de software limpias y mantenibles  
