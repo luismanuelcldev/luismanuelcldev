@@ -1,51 +1,22 @@
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
+¡Hola! 👋 Mi nombre es Luis Manuel De La Cruz Ledesma.
+======================================================================================================================================
 
-# ¡Hola! Soy Luis Manuel De La Cruz L. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻
+Software Developer
+---------------------------
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <b>🚀 Desarrollador de software, enfocado en crear soluciones robustas y escalables. Combino mi pensamiento analítico con pasión por el código limpio y buenas prácticas en Desarrollo Backend y Frontend.</b> 
-  <div style="text-align: right;">🔹🔸🔷</div>
-</div>
+Comencé mi camino en la programación con curiosidad y el deseo de entender cómo funcionaban las aplicaciones que usaba a diario. Con el tiempo, esa curiosidad se transformó en pasión por crear soluciones reales. Pasé de construir simples interfaces en HTML y CSS a desarrollar aplicaciones completas con React, Flutter, Node.js y NestJS, integrando bases de datos, autenticación y arquitecturas limpias. Hoy disfruto de ver cómo mis líneas de código se convierten en sistemas funcionales que resuelven problemas y optimizan procesos. Mi objetivo ahora es seguir creciendo como Desarrollador, combinando buenas prácticas y tecnologías para construir proyectos que generen impacto.
 
----
+* 🌍 Resido en Republica Dominicana.
+* 🖥️ Consulta mi portafolio en [Luis Manuel De La Cruz Ledesma](https://luismanueldelacruzldev.tech/)
+* ✉️ Puedes contactarme en [ledesmadelacruzluismanuel@gmail.com](mailto:ledesmadelacruzluismanuel@gmail.com)
+* 🚀 Actualmente trabajo como Desarrollador Freelancer.
+* 🧠 Estoy aprendiendo Cloud Computing/DevOps
+* 👥 Busco colaborar con otros desarrolladores y startups tecnológicas.
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>Mi trayectoria</b>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"></a><a href="https://apple.com" target="_blank" rel="noreferrer"></a>
+</p>
 
-👨‍💻 **Desarrollador de Software** con formación en **Tecnólogo Superior en Desarrollo de Aplicaciones Multiplataformas** [PUCMM](https://www.pucmm.edu.do).  
+### Socials
 
-🌱 Oriundo de **Fantino, Sánchez Ramírez (República Dominicana)**, actualmente radicado en **Santo Domingo**.  
-
-💡 Autodidacta por naturaleza, me apasiona:
-- Implementar arquitecturas de software limpias y mantenibles  
-- Optimizar experiencias de usuario con interfaces intuitivas  
-- Aplicar patrones de diseño y buenas prácticas de desarrollo  
-- Explorar tecnologías emergentes en el ecosistema JavaScript/TypeScript  
-
-> *"El arte de programar consiste en organizar y dominar la complejidad."* — Edsger W. Dijkstra  
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <b>Stack tecnológico</b>
-
-🛠 **Dominio de:**  
-- Frontend: React.js, Flutter Dart, Tailwind CSS, Bootstrap  
-- Backend: Node.js, Express, Laravel 
-- Bases de datos: PSQL Server, PostgreSQL   
-- Herramientas: Git, Docker, Figma, Excalidraw
-
-📚 **En constante aprendizaje:**  
-- Arquitectura de microservicios  
-- Cloud Computing (AWS/GCP)  
-- Testing (Jest, Cypress)
-- Desarrollo Movil
-
----
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> <b>Contacto</b>
-
-📫 **Conéctemos:**  
-- LinkedIn: [Luis Manuel De La Cruz Ledesma](https://www.linkedin.com/in/luis-manuel-de-la-cruz-ledesma/)  
-- Portafolio: [luismanueldelacruzldev.tech ](https://luismanueldelacruzldev.tech/)  
-- Correo: ledesmadelacruzluismanuel@gmail.com  
-
-⭐ **Open to collaborations** on projects!
+<p align="left"> <a href="https://www.github.com/luismanuelcldev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/luis-manuel-de-la-cruz-ledesma/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
