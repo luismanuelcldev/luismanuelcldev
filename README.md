@@ -1,7 +1,7 @@
 ¡Hola! 👋 Mi nombre es Luis Manuel De La Cruz Ledesma.
 ======================================================================================================================================
 <center>
-    <img src="Group 8040.png" alt="Imagen de proyectos" width="750" height="750"/>
+    <img src="Group 8040.png" alt="Imagen de proyectos" width="95%"/>
 </center>
 
 Software Developer
